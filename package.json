@@ -1,0 +1,23 @@
+{
+  "name": "frola",
+  "version": "1.0.0",
+  "description": "Bot de Discord para cosas varias",
+  "main": "bot.js",
+  "scripts": {
+    "start": "nodemon bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naranjujeli/discord-frola-bot.git"
+  },
+  "author": "naranjujeli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naranjujeli/discord-frola-bot/issues"
+  },
+  "homepage": "https://github.com/naranjujeli/discord-frola-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
